@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: nodeapp
-      image: srihari437/new:tagVersion
+      image: srihari437/deployk8:tagVersion
       ports:
         - containerPort: 8080
